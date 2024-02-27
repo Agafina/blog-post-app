@@ -1,0 +1,29 @@
+{
+    "blogs": [
+        {
+            "title": "Jack and the Giants", 
+            "snippet":"Jack and the magic seeds fkndjkf tha tmanin thisn the aoinflknfsdfdf", 
+            "author":"Patson",
+            "body":"lorem hten in ifhoaioia",
+            "likes":1,
+            "subscribers":[]
+        },
+        {
+            "title": "Jack and the Giants", 
+            "snippet":"Jack and the magic seeds fkndjkf tha tmanin thisn the aoinflknfsdfdf", 
+            "author":"Denis",
+            "body":"lorem hten in ifhoaioia",
+            "likes":0,
+            "subscribers":[]
+        },
+        {
+            "title": "Jack and the Giants", 
+            "snippet":"Jack and the magic seeds fkndjkf tha tmanin thisn the aoinflknfsdfdf", 
+            "author":"Fabrice",
+            "body":"lorem hten in ifhoaioia",
+            "likes":0,
+            "subscribers":[]
+        }
+       
+    ]
+}
