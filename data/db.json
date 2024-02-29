@@ -1,29 +1,82 @@
 {
-    "blogs": [
-        {
-            "title": "Jack and the Giants", 
-            "snippet":"Jack and the magic seeds fkndjkf tha tmanin thisn the aoinflknfsdfdf", 
-            "author":"Patson",
-            "body":"lorem hten in ifhoaioia",
-            "likes":1,
-            "subscribers":[]
-        },
-        {
-            "title": "Jack and the Giants", 
-            "snippet":"Jack and the magic seeds fkndjkf tha tmanin thisn the aoinflknfsdfdf", 
-            "author":"Denis",
-            "body":"lorem hten in ifhoaioia",
-            "likes":0,
-            "subscribers":[]
-        },
-        {
-            "title": "Jack and the Giants", 
-            "snippet":"Jack and the magic seeds fkndjkf tha tmanin thisn the aoinflknfsdfdf", 
-            "author":"Fabrice",
-            "body":"lorem hten in ifhoaioia",
-            "likes":0,
-            "subscribers":[]
-        }
-       
-    ]
+  "blogs": [
+    {
+      "title": "Jack and the Giants",
+      "snippet": "Jack and the magic seeds fkndjkf tha tmanin thisn the aoinflknfsdfdf",
+      "author": "Fabrice",
+      "body": "lorem hten in ifhoaioia",
+      "subscribers": [],
+      "id": "1"
+    },
+    {
+      "id": "e09a",
+      "title": "Man in the middle attack",
+      "snippet": "Network attack",
+      "body": "efdsdf",
+      "author": "Agafina"
+    },
+    {
+      "id": "c6a2",
+      "title": "Loic and the main things in does ",
+      "snippet": "looking for food",
+      "body": "there was a time that loic spent looking for food around but didnt see",
+      "author": "Denise"
+    },
+    {
+      "id": "d1c3",
+      "title": "Man in the middle attack",
+      "snippet": "dfsd",
+      "body": "fnskdjfndkl",
+      "author": "aga"
+    },
+    {
+      "id": "7738",
+      "title": "dfsfd",
+      "snippet": "fgfgfd",
+      "body": "fsdffgfgfdg",
+      "author": "Denise"
+    },
+    {
+      "id": "cb06",
+      "title": "dfsfd",
+      "snippet": "fgfgfd",
+      "body": "asdfsf",
+      "author": "Denise"
+    },
+    {
+      "id": "2df1",
+      "title": "dfsfd",
+      "snippet": "fgfgfd",
+      "body": "d",
+      "author": "Denise"
+    },
+    {
+      "id": "808d",
+      "title": "dfsfd",
+      "snippet": "fgfgfd",
+      "body": "d",
+      "author": "Denise"
+    },
+    {
+      "id": "f41c",
+      "title": "Mario blog",
+      "snippet": "THis is the most existing blog you'll find about mario",
+      "body": "marion is ",
+      "author": "Agafina"
+    },
+    {
+      "id": "54d0",
+      "title": "mobile development",
+      "snippet": "learning React is Fun",
+      "body": "Take time off",
+      "author": "Agafina"
+    },
+    {
+      "id": "34a7",
+      "title": "Network",
+      "snippet": "i love networj trt this you will love it too",
+      "body": "\tThe TCP connection initiator (PC1 in the figure) sends the first TCP segment with SYN being set. The initial sequence number a is a randomly generated number. The acknowledgment number is 0 because no segment has ever been received from PC2.\n\tAfter receiving a valid TCP segment with the SYN flag being set, the receiver (PC2) replies with a TCP segment with SYN and ACK being set. The initial sequence number b is a randomly generated number. Because the segment is a response one to PC1, the acknowledgment number is a+1.\n\tAfter receiving the TCP segment in which SYN and ACK are set, PC1 replies with a segment in which ACK is set, the sequence number is a+1, and the acknowledgment number is b+1. After PC2 receives the segment, a TCP connection is established.\n",
+      "author": "Agafina"
+    }
+  ]
 }

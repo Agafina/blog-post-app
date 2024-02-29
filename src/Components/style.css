@@ -47,6 +47,7 @@
     text-align: center;
     margin-top: 20px;
     font-size: 20px;
+    
 }
 .Home{
     display: flex;
@@ -61,4 +62,37 @@
     border: 1px solid gray;
     margin: 10px;
     padding: 10px;
+}
+.form__box{
+    margin: 0px auto;
+    max-width: 400px;
+    text-align: center;
+}
+.form__box label{
+    display: block;
+    text-align: left;
+}
+.form__box input ,.form__box textarea{
+    width: 100%;
+    margin: 10px 0;
+    padding: 6px 10px;
+    box-sizing: border-box;
+    border: 1px solid gray;
+    display: block;
+}
+.form__box .btn{
+    padding: 8px 10px;
+    font-weight: bold;
+    color: wheat;
+    background: brown;
+    outline: none;
+    border: none;
+}
+.form__box .btn:hover{
+    background: #740303;
+}
+
+.blog-preview a{
+    text-decoration: none;
+    color: black
 }
